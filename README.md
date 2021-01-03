@@ -1,10 +1,10 @@
 # nodejs-xlsx
 
+Requisitos: ter instalado o node, npm e git na sua máquina
+
 Tutorial de como utilizar a biblioteca xlsx com o node-js.
 
 Para rodar este código em sua máquina faça o seguinte:
-
-Requisitos: ter instalado o node, npm e git na sua máquina
 
 1 - crie um novo diretório na sua máquina
 
